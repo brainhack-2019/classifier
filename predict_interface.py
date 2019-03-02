@@ -6,7 +6,7 @@ A simple interface for sending predictions to the client
 
 e.g.
 
-# When prediction show gesture with id = 0, then sending is:
+# When prediction shows gesture with id = 0, then sending is:
 res = PredictInterface(0).send()
 
 '''
